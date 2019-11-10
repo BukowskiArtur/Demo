@@ -6,4 +6,4 @@
 > Explore git setup.md file to find instructions how to set up git / folder / repo in VSC.
 
 ## Sample of markdown usage
-> Explore mardown example.md to find examples of text formatting in Markdown.
+> Explore mardown example.md file to find examples of text formatting in Markdown.

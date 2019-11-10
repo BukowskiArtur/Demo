@@ -3,7 +3,7 @@
 * Download Anaconda from official site https://www.anaconda.com/distribution/
 * Start Anaconda installation
     - tick *Add Anaconda to my PATH environment variable* in Adanced Options (although not recommended in installation description)
-    - don't install Visual Studio Code or R Studio from Anaconda (my suggestion)
+    - don't install now Visual Studio Code or R Studio from Anaconda (my suggestion)
 * Start Python installation
     - Run Anaconda Prompt terminal and enter
 > ``` 

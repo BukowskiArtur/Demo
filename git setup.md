@@ -7,13 +7,15 @@
 ## VS Code setup
 ### Global settings
 Enter global username and email in terminal
-* git config --global user.name YourUsername
-* git config --global user.email youremail@address
-
+```
+git config --global user.name YourUsername
+git config --global user.email youremail@address
+```
 and confirm entered settings in terminal
-
-* git config user.name
-* git config user.email
+```
+git config user.name
+git config user.email
+```
 ### Worspace and repositories
 Manage workspace
 
@@ -21,6 +23,7 @@ Manage workspace
 * File > Save Worspace As... > save new workspace to name it
 
 Clone repositories into your workspace (in terminal window)
-
-* git clone 'URL from github link copied earlier'
-* git clone 'another URL link from github for another repo'
+```
+git clone 'URL from github link copied earlier
+git clone 'another URL link from github for another repo'
+```

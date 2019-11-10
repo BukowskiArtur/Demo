@@ -19,6 +19,6 @@
 > ```
 * Run Jupyter Notebook
     - Open Anaconda Navigator and click *Launch* within Jupyter Notebook section.
-## Helpfull links
+## Helpful links
 * https://github.com/macwilam/KursPython
 * https://www.datacamp.com/community/tutorials/installing-anaconda-windows
